@@ -9,7 +9,7 @@ profile:
   image: profile_pic.png
   image_circular: True # crops the image to make it circular
   address: >
-    <p>SUSTech, Shenzhen, China</p>
+    <p>SUSTech,Shenzhen,China</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,8 +21,8 @@ My research focuses on **Terrain-aware Contact and Mapping for Intelligent Robot
 <!-- My goal: Towards Pervasive Robotics and Artificial Intelligence -->
 
 <!-- I graduated with an Mphil from the  -->
-I finished my master's degree (Sep.2017 - Dec.2019) in Robotics at Harbin Institute Of Technology, Shenzhen, supervised by Prof. [Wenfu Xu](http://faculty.hitsz.edu.cn/xuwenfu).
-Prior to that, I obtained a B.Eng (Sep.2013 - Jun.2017) from Harbin Institute Of Technology, Harbin, also studying Robotics.
+I finished my master's degree (Sep.2017 - Dec.2019) in Robotics at Harbin Institute of Technology, Shenzhen, supervised by Prof. [Wenfu Xu](http://faculty.hitsz.edu.cn/xuwenfu).
+Prior to that, I obtained a B.Eng (Sep.2013 - Jun.2017) from Harbin Institute of Technology, Harbin, also studying Robotics.
 During my Ph.D. I joined RCAMC as a visiting researcherand collaborate with Prof. [Liang Ding](https://homepage.hit.edu.cn/liangding)(03.2023-09.2023) and Prof. [Hongwei Guo](https://homepage.hit.edu.cn/guohongwei?lang=zh)(09.2023-02.2024) at HIT.
 <!-- During my Ph.D. I collaborate with the [MetaSLAM](https://metaslam.github.io/) by Prof. Peng Yin at GairLab.  -->
 <!-- ([HITSZ](http://en.hitsz.edu.cn/)) -->
