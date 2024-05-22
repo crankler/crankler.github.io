@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
  
-Hey 👋, I'm currently pursing my Robotics Ph.D. (Sep.2020 - Jun.2024) from the [Robotics Institute](https://mee.sustech.edu.cn/en/) at [Southern University of Science and Technology](https://www.sustech.edu.cn/), Shenzhen, China, working with [Zhenzhong Jia](https://mee.sustech.edu.cn/2019/jiaoshou4_0930/842.html).
+Hey 👋, I'm currently pursing my Robotics Ph.D. (Sep.2020 - Jun.2024) from the [Robotics Institute](https://mee.sustech.edu.cn/en/) at Southern University of Science and Technology (SUSTech), Shenzhen, China, working with [Zhenzhong Jia](https://mee.sustech.edu.cn/2019/jiaoshou4_0930/842.html).
 My research focuses on **Terrain-aware Contact and Mapping for Intelligent Robots**, which explores perception, learning, sensor fusion, and autonomous traversal in more dynamic areas.
 <!-- My goal: Towards Pervasive Robotics and Artificial Intelligence -->
 

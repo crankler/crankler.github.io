@@ -5,5 +5,5 @@ inline: true
 ---
 
 
-Our paper [FootVision]() is resubmited by IEEE Robotics and Automation Letters.
+Our [FootVision]() paper is resubmited by IEEE Robotics and Automation Letters.
 <!-- Paper, website, and code will be avaliable soon. -->
