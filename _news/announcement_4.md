@@ -5,5 +5,5 @@ inline: true
 ---
 
 
-Our :sparkles: [FootVision]() paper was accepted by IEEE Robotics and Automation Letters.
+Our :sparkles: [FootVision](https://ieeexplore.ieee.org/document/10543120) paper was accepted by IEEE Robotics and Automation Letters.
 <!-- Paper, website, and code will be avaliable soon. -->

@@ -10,6 +10,8 @@ nav_order: 1
 ---
 Here you can find my [GoogleScholar](https://scholar.google.com/citations?hl=zh-CN&user=bWThk9wAAAAJ&view_op=list_works&sortby=pubdate)
 
+Research goals include implementing interaciton sensing of contact and developing intelligient scene understanding for mobile robots.
+
 
 
 <!-- ### UnderView
